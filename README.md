@@ -1,0 +1,1 @@
+JSTLのc:outタグおよびJSP標準のjsp:getpropertyタグの動作確認
